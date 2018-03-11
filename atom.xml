@@ -6,7 +6,7 @@
   <link href="/study/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/study/"/>
-  <updated>2018-03-10T13:52:31.318Z</updated>
+  <updated>2018-03-11T09:12:38.104Z</updated>
   <id>http://yoursite.com/study/</id>
   
   <author>
@@ -17,21 +17,63 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title> 0.0.1 </title>
+    <link href="http://yoursite.com/study/0-0-1/"/>
+    <id>http://yoursite.com/study/0-0-1/</id>
+    <published>2018-03-11T09:07:19.000Z</published>
+    <updated>2018-03-11T09:12:38.104Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018/ 3 / 11 / 0.01版本更新<br><a id="more"></a></p><hr><p>在原有基础框架下，新增了：</p><ul><li>完善了功能栏的内容和形式</li><li>侧边栏个人的网站链接</li><li>侧边栏的友情链接 （请把广告费到位一下）</li><li>将文章进行缩略显示</li><li>给网站设置了一个“高大上”的背景</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018/ 3 / 11 / 0.01版本更新&lt;br&gt;
+    
+    </summary>
+    
+      <category term="网站更新" scheme="http://yoursite.com/study/categories/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0/"/>
+    
+    
+      <category term="功能更新" scheme="http://yoursite.com/study/tags/%E5%8A%9F%E8%83%BD%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Second Day</title>
+    <link href="http://yoursite.com/study/day/"/>
+    <id>http://yoursite.com/study/day/</id>
+    <published>2018-03-11T08:01:25.000Z</published>
+    <updated>2018-03-11T09:06:27.373Z</updated>
+    
+    <content type="html"><![CDATA[<p>现在是网站建立的第二天。<br><a id="more"></a></p><hr><p>&ensp;&ensp;&ensp;&ensp;新增[这些功能]花了老大的时间，而且还是看文档一步一步傻瓜式的设置，感觉自己还是太弱了。<br>&ensp;&ensp;&ensp;&ensp;中午在虎扑看到一个很励志的擦地哥<a href="https://baike.baidu.com/item/%E6%93%A6%E5%9C%B0%E5%93%A5/20350326?fr=aladdin" target="_blank" rel="noopener">孟飞</a>。</p><blockquote><p><a href="http://tv.cntv.cn/video/VSET100318351836/a63ad90667af480db151dd0811a4abcd" target="_blank" rel="noopener">“擦地哥” 视频</a><br><a href="https://baijiahao.baidu.com/s?id=1555036646672748&amp;wfr=spider&amp;for=pc&amp;isFailFlag=1" target="_blank" rel="noopener">最火“擦地哥”：拼命三年，只为跪下六秒</a></p></blockquote><p>&ensp;&ensp;&ensp;&ensp;十五岁去少林寺拜师，十七岁参军，退伍后来到深圳务工，在下班后就来打场馆里当义工，干起了擦地的活。<br>&ensp;&ensp;&ensp;&ensp;一般人肯定就会想，我靠！擦地多爽啊，还能在场边看球，还有机会近距离接触球星，何乐而不为呢。没错，当时我也是这样想的。但是他不一样，他在一份简简单单的工作中赋予了自己的执着，让这份差事增添不一样的味道。他的工作，就是在场地上有人摔倒或流汗太多时，跑上去擦拭地面防止球员受伤。他的工作时间，被限制在6秒左右。就是这6秒，他把这项工作做到了极致。在深圳CBA擦了3年的地，磨破了几十副护膝，为的只是能帮队员们争取哪怕1秒的优势。不仅如此，他还在场下琢磨擦地的艺术，在网上找NBA中擦地的视频，认认真真的去琢磨每一个动作。这份对工作的热忱真的震撼到我了。或许这就是是我现在最缺乏的吧。<br>&ensp;&ensp;&ensp;&ensp;现在的我，虽然一腔热忱的想把英语狂补回来，但总是到了一定时间就感觉有点气馁了，感觉看的特别烦躁，完全看、背不进去。学Python的时候也是，整个大二上才看到函数那章，现在看到类、面向对象编程就感觉完全看不进去了，现在又看到PHP的书，又想从头开始学HTML、PHP了。从来也不能安安心心的去干好一件事，在这方面，我还不如擦地哥呢。<br>&ensp;&ensp;&ensp;&ensp;好了，今天就到这里吧。 抖擞一下，再次启航吧！</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;现在是网站建立的第二天。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="个人感受" scheme="http://yoursite.com/study/categories/%E4%B8%AA%E4%BA%BA%E6%84%9F%E5%8F%97/"/>
+    
+    
+      <category term="体会" scheme="http://yoursite.com/study/tags/%E4%BD%93%E4%BC%9A/"/>
+    
+      <category term="牢骚" scheme="http://yoursite.com/study/tags/%E7%89%A2%E9%AA%9A/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/study/first-blog/"/>
     <id>http://yoursite.com/study/first-blog/</id>
     <published>2018-03-10T04:57:26.000Z</published>
-    <updated>2018-03-10T13:52:31.318Z</updated>
+    <updated>2018-03-11T07:37:58.697Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello everyone ! This is Zane Zhou. Welcome to my personal website! </p><p>I’m an ordinary college student in China, and I’m studying at Tianjin Polytechnic University.<br>I am exceedingly excited that I can meet you right here.</p><p>Thank Github for giving me the oppotunity to build my own blog. I hope I can show  my progress here. </p><p>Thank you!</p>]]></content>
+    <content type="html"><![CDATA[<p>Hello everyone ! This is Zane Zhou. Welcome to my personal website!<br><a id="more"></a><br>I’m an ordinary college student in China, and I’m studying at Tianjin Polytechnic University.<br>I am exceedingly excited that I can meet you right here.</p><p>Thank Github for giving me the oppotunity to build my own blog. I hope I can show  my progress here. </p><p>Thank you!</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Hello everyone ! This is Zane Zhou. Welcome to my personal website! &lt;/p&gt;
-&lt;p&gt;I’m an ordinary college student in China, and I’m studying at
-      
+      &lt;p&gt;Hello everyone ! This is Zane Zhou. Welcome to my personal website!&lt;br&gt;
     
     </summary>
     
