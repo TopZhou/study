@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[0.0.1]]></title>
-    <url>%2Fstudy%2F0-0-1%2F</url>
-    <content type="text"><![CDATA[2018/ 3 / 11 / 0.01版本更新 在原有基础框架下，新增了： 完善了功能栏的内容和形式 侧边栏个人的网站链接 侧边栏的友情链接 （请把广告费到位一下） 将文章进行缩略显示 给网站设置了一个“高大上”的背景]]></content>
+    <title><![CDATA[Vision Update]]></title>
+    <url>%2Fstudy%2Fvision_updata%2F</url>
+    <content type="text"><![CDATA[2018/ 3 / 110.0.1 在原有基础框架下，新增了： 完善了功能栏的内容和形式 侧边栏个人的网站链接 侧边栏的友情链接 （请把广告费到位一下） 将文章进行缩略显示 给网站设置了一个“高大上”的背景]]></content>
       <categories>
         <category>网站更新</category>
       </categories>
@@ -27,5 +27,11 @@
     <title><![CDATA[Hello World]]></title>
     <url>%2Fstudy%2Ffirst-blog%2F</url>
     <content type="text"><![CDATA[Hello everyone ! This is Zane Zhou. Welcome to my personal website!I’m an ordinary college student in China, and I’m studying at Tianjin Polytechnic University.I am exceedingly excited that I can meet you right here. Thank Github for giving me the oppotunity to build my own blog. I hope I can show my progress here. Thank you!]]></content>
+      <categories>
+        <category>个人感受</category>
+      </categories>
+      <tags>
+        <tag>体会</tag>
+      </tags>
   </entry>
 </search>
