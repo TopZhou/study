@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zane Zhou</title>
+  
+  <subtitle>没有梦想，何必远方！</subtitle>
+  <link href="/study/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/study/"/>
+  <updated>2018-03-10T13:52:31.318Z</updated>
+  <id>http://yoursite.com/study/</id>
+  
+  <author>
+    <name>周志强</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/study/first-blog/"/>
+    <id>http://yoursite.com/study/first-blog/</id>
+    <published>2018-03-10T04:57:26.000Z</published>
+    <updated>2018-03-10T13:52:31.318Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello everyone ! This is Zane Zhou. Welcome to my personal website! </p><p>I’m an ordinary college student in China, and I’m studying at Tianjin Polytechnic University.<br>I am exceedingly excited that I can meet you right here.</p><p>Thank Github for giving me the oppotunity to build my own blog. I hope I can show  my progress here. </p><p>Thank you!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Hello everyone ! This is Zane Zhou. Welcome to my personal website! &lt;/p&gt;
+&lt;p&gt;I’m an ordinary college student in China, and I’m studying at
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
